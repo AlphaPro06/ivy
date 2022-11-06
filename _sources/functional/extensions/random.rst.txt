@@ -13,4 +13,7 @@ Random
    :maxdepth: -1
    :caption: Random
 
+   random/dirichlet.rst
+   random/beta.rst
+   random/gamma.rst
 
